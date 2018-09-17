@@ -27,7 +27,7 @@ Certification obtained during my academic career.
 8.  Importing Data in Python, Part 1
 9.  Importing Data in Python, Part 2
 10.  Interactive Data Visualization with Bokeh
-11.  Intermediate Python for DAta Science Course
+11.  Intermediate Python for Data Science Course
 12.  Introduction to Databases in Python
 13.  Introductionto Data Visualization with Python
 14.  Introduction to Git for Data Science
@@ -44,7 +44,7 @@ Certification obtained during my academic career.
 25.  Natural Language Processing Fundamentals in Python
 26.  Network Analysis in Python, Part 1
 27.  Network Analysis in Python, Part 2
-28.  Pandas Foundations.
+28.  Pandas Foundations
 29.  Python Data Science Toolbox, Part 1
 30.  Python Data Science Toolbox, Part 2
 31.  Statistical thinking in Python, Part 1
