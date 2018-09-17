@@ -17,6 +17,7 @@ Certification obtained during my academic career.
 2.  Top academic student in the Faculty of Natural Sciences for 1st and 3rd year studies.
 
 ## Online Courses completed at [DataCamp](https://www.datacamp.com/) (in alphabetical order):
+
 1.  Case Studies in Statistical Thinking
 2.  Cleaning Data in Python
 3.  Data Scientist with Python Track
