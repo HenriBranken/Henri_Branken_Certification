@@ -70,3 +70,6 @@ Certification obtained during my academic career.
 14. [Understanding the Fourier Transform and its Applications](https://www.udemy.com/fourier-transform-mxc/)
 15. [Vim Masterclass](https://www.udemy.com/vim-commands-cheat-sheet/)
 16. [Zero to Deep Learning with Python and Keras](https://www.udemy.com/zero-to-deep-learning/)
+
+## Online Courses completed at [DeepLearningCourses](https://deeplearningcourses.com/) (in alphabetical order):
+1.  [Deep Learning Prerequisites:  The Numpy Stack in Python](https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/)
