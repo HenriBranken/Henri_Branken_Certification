@@ -72,4 +72,5 @@ Certification obtained during my academic career.
 16. [Zero to Deep Learning with Python and Keras](https://www.udemy.com/zero-to-deep-learning/)
 
 ## Online Courses completed at [DeepLearningCourses](https://deeplearningcourses.com/) (in alphabetical order):
-1.  [Deep Learning Prerequisites:  The Numpy Stack in Python](https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/)
+1.  [Deep Learning Prerequisites:  Linear Regression in Python](https://www.udemy.com/data-science-linear-regression-in-python/)
+2.  [Deep Learning Prerequisites:  The Numpy Stack in Python](https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/)
